@@ -33,7 +33,7 @@ end
 def aoh_lookup(aoh, row, key)
   row = row
   column = key
-  aoh[1][1]
+  aoh[1]
 end
 
 def aoh_update(aoh, row, key, new_value)
