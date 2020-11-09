@@ -14,7 +14,8 @@ array = [
   JOELLE_VD,
   PAT_M,
   KATE_G,
-  BRUCE_G
+  BRUCE_G,
+]
 end
 
 def literal_aoh
