@@ -42,5 +42,5 @@ def aoh_update(aoh, row, key, new_value)
   row = row
   column = key
   aoh[2][:name] = new_value
-
+  matrix
 end
